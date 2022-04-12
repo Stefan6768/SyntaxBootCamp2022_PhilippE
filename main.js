@@ -1,4 +1,4 @@
-^unction helloWorld() {
+function helloWorld() {
     // This line prints a very simple message
     console.log("Hello World!");
 
