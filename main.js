@@ -5,3 +5,13 @@ function helloWorld() {
     // Return value
     return 0;
 }
+
+function main() {
+    console.log("Calling the function: ");
+    
+    //Function Call
+    helloWorld();
+    
+    //Return Value
+    return 0;
+}
